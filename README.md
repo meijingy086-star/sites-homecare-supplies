@@ -1,5 +1,12 @@
 # 家护物品管家
 
-基于 Streamlit 的家庭护理用品管理网页，支持手机浏览、独立批次、库存变动、有效期提示、补充清单和 JSON 备份。
+Streamlit 家庭护理用品管理网页，支持手机浏览。
 
-部署入口：`app.py`。建议 Python 3.12。
+## Streamlit 部署
+
+- Repository: `meijingy086-star/sites-homecare-supplies`
+- Branch: `main`
+- Main file path: `app.py`
+- Python: `3.12`
+
+详细用法见 [使用与部署说明](使用与部署说明.md)。

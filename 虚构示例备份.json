@@ -1,0 +1,326 @@
+{
+  "schema": 1,
+  "products": [
+    {
+      "id": "75cf5452c5144f79be5671cbe4b5a0e8",
+      "name": "一次性手套",
+      "spec": "M号",
+      "unit": "盒",
+      "category": "防护用品",
+      "location": "玄关柜第二层",
+      "minimum": 2,
+      "note": "虚构展示记录，不是购买或使用建议。",
+      "archived": false,
+      "batches": [
+        {
+          "id": "f6e2c69ef7b841da894aed9558fdc6b7",
+          "lot": "示例批次A",
+          "qty": 1,
+          "expiry": "2027-03-25",
+          "revision": 1,
+          "created_at": "2026-11-25T17:38:59+08:00"
+        }
+      ]
+    },
+    {
+      "id": "c3ed5edb5fad49b7a6cd3cdeb40164a7",
+      "name": "护理垫",
+      "spec": "60×90cm",
+      "unit": "包",
+      "category": "日常照护用品",
+      "location": "卧室柜第二层",
+      "minimum": 3,
+      "note": "虚构展示记录，不是购买或使用建议。",
+      "archived": false,
+      "batches": [
+        {
+          "id": "6034d6e4c36349b59d9bc4be742b96d8",
+          "lot": "示例批次A",
+          "qty": 2,
+          "expiry": "2027-07-23",
+          "revision": 1,
+          "created_at": "2026-11-25T17:38:59+08:00"
+        },
+        {
+          "id": "547eacef6bb4497cb717f92baa214b73",
+          "lot": "示例批次B",
+          "qty": 1,
+          "expiry": "2027-01-24",
+          "revision": 1,
+          "created_at": "2026-11-25T17:38:59+08:00"
+        }
+      ]
+    },
+    {
+      "id": "a3b69d341fa54963915de2b3ea44ca3c",
+      "name": "清洁湿巾",
+      "spec": "无香型",
+      "unit": "包",
+      "category": "清洁用品",
+      "location": "床头柜",
+      "minimum": 2,
+      "note": "虚构展示记录，不是购买或使用建议。",
+      "archived": false,
+      "batches": [
+        {
+          "id": "37d52fc62ee14a0e98bc9ccb4da3d4d2",
+          "lot": "示例批次A",
+          "qty": 4,
+          "expiry": "2026-12-13",
+          "revision": 1,
+          "created_at": "2026-11-25T17:38:59+08:00"
+        }
+      ]
+    },
+    {
+      "id": "e0ab1a68036d4820954fd6504ead7129",
+      "name": "纱布敷料",
+      "spec": "独立包装",
+      "unit": "包",
+      "category": "其他",
+      "location": "专用收纳盒",
+      "minimum": 5,
+      "note": "虚构展示记录，不是购买或使用建议。",
+      "archived": false,
+      "batches": [
+        {
+          "id": "0adf4b125e5f46c6b54e79f8925bd94d",
+          "lot": "示例批次A",
+          "qty": 6,
+          "expiry": "2027-06-13",
+          "revision": 1,
+          "created_at": "2026-11-25T17:38:59+08:00"
+        }
+      ]
+    },
+    {
+      "id": "f046f458f61d48bcb280db8530a45596",
+      "name": "纸巾",
+      "spec": "抽取式",
+      "unit": "包",
+      "category": "日常照护用品",
+      "location": "储物柜",
+      "minimum": 2,
+      "note": "虚构展示记录，不是购买或使用建议。",
+      "archived": false,
+      "batches": [
+        {
+          "id": "7f31f1c0a4e741ea8483374b2a83053e",
+          "lot": "示例批次A",
+          "qty": 0,
+          "expiry": null,
+          "revision": 1,
+          "created_at": "2026-11-25T17:38:59+08:00"
+        }
+      ]
+    },
+    {
+      "id": "9f1496ac61834a978840a1453831f793",
+      "name": "口罩",
+      "spec": "成人款",
+      "unit": "盒",
+      "category": "防护用品",
+      "location": "玄关柜第一层",
+      "minimum": 1,
+      "note": "虚构展示记录，不是购买或使用建议。",
+      "archived": false,
+      "batches": [
+        {
+          "id": "31510bc496a34e588992534a1b0080ea",
+          "lot": "示例批次A",
+          "qty": 2,
+          "expiry": "2026-11-22",
+          "revision": 1,
+          "created_at": "2026-11-25T17:38:59+08:00"
+        }
+      ]
+    },
+    {
+      "id": "1273d2fdd65c4c408cbfccdb0bd2cac6",
+      "name": "收纳袋",
+      "spec": "中号",
+      "unit": "个",
+      "category": "其他",
+      "location": "储物柜",
+      "minimum": 2,
+      "note": "虚构展示记录，不是购买或使用建议。",
+      "archived": false,
+      "batches": [
+        {
+          "id": "11a9bd085b6740e0bd122586b9e5d111",
+          "lot": "示例批次A",
+          "qty": 8,
+          "expiry": null,
+          "revision": 1,
+          "created_at": "2026-11-25T17:38:59+08:00"
+        }
+      ]
+    },
+    {
+      "id": "e28e274a7d6848acaf3ae468b6ff9998",
+      "name": "擦拭巾",
+      "spec": "小号",
+      "unit": "包",
+      "category": "清洁用品",
+      "location": "浴室干燥柜",
+      "minimum": 2,
+      "note": "虚构展示记录，不是购买或使用建议。",
+      "archived": false,
+      "batches": [
+        {
+          "id": "138df663192a463aa344b799bd26fe85",
+          "lot": "示例批次A",
+          "qty": 3,
+          "expiry": "2026-11-25",
+          "revision": 1,
+          "created_at": "2026-11-25T17:38:59+08:00"
+        }
+      ]
+    }
+  ],
+  "events": [
+    {
+      "id": "d698c3215e44497d8a6314edade025ee",
+      "at": "2026-11-25T17:38:59+08:00",
+      "kind": "新增用品",
+      "product_id": "75cf5452c5144f79be5671cbe4b5a0e8",
+      "product_name": "一次性手套",
+      "unit": "盒",
+      "batch_id": "f6e2c69ef7b841da894aed9558fdc6b7",
+      "before": 0,
+      "after": 1,
+      "after_revision": 1,
+      "note": "",
+      "undone": false
+    },
+    {
+      "id": "01a5088e6ed74823a947b965d59186b9",
+      "at": "2026-11-25T17:38:59+08:00",
+      "kind": "新增用品",
+      "product_id": "c3ed5edb5fad49b7a6cd3cdeb40164a7",
+      "product_name": "护理垫",
+      "unit": "包",
+      "batch_id": "6034d6e4c36349b59d9bc4be742b96d8",
+      "before": 0,
+      "after": 2,
+      "after_revision": 1,
+      "note": "",
+      "undone": false
+    },
+    {
+      "id": "4a7dfff6a29f470cabc06e63b44f62d9",
+      "at": "2026-11-25T17:38:59+08:00",
+      "kind": "新增用品",
+      "product_id": "a3b69d341fa54963915de2b3ea44ca3c",
+      "product_name": "清洁湿巾",
+      "unit": "包",
+      "batch_id": "37d52fc62ee14a0e98bc9ccb4da3d4d2",
+      "before": 0,
+      "after": 4,
+      "after_revision": 1,
+      "note": "",
+      "undone": false
+    },
+    {
+      "id": "b5ec0e500beb4b3eb92168e21a6464df",
+      "at": "2026-11-25T17:38:59+08:00",
+      "kind": "新增用品",
+      "product_id": "e0ab1a68036d4820954fd6504ead7129",
+      "product_name": "纱布敷料",
+      "unit": "包",
+      "batch_id": "0adf4b125e5f46c6b54e79f8925bd94d",
+      "before": 0,
+      "after": 6,
+      "after_revision": 1,
+      "note": "",
+      "undone": false
+    },
+    {
+      "id": "df3455ebec704fa8848d2c22c11db8f5",
+      "at": "2026-11-25T17:38:59+08:00",
+      "kind": "新增用品",
+      "product_id": "f046f458f61d48bcb280db8530a45596",
+      "product_name": "纸巾",
+      "unit": "包",
+      "batch_id": "7f31f1c0a4e741ea8483374b2a83053e",
+      "before": 0,
+      "after": 0,
+      "after_revision": 1,
+      "note": "",
+      "undone": false
+    },
+    {
+      "id": "8b058d90455941ba81ac1637c98beab2",
+      "at": "2026-11-25T17:38:59+08:00",
+      "kind": "新增用品",
+      "product_id": "9f1496ac61834a978840a1453831f793",
+      "product_name": "口罩",
+      "unit": "盒",
+      "batch_id": "31510bc496a34e588992534a1b0080ea",
+      "before": 0,
+      "after": 2,
+      "after_revision": 1,
+      "note": "",
+      "undone": false
+    },
+    {
+      "id": "d45930c6daa2484a9d80153778a3d952",
+      "at": "2026-11-25T17:38:59+08:00",
+      "kind": "新增用品",
+      "product_id": "1273d2fdd65c4c408cbfccdb0bd2cac6",
+      "product_name": "收纳袋",
+      "unit": "个",
+      "batch_id": "11a9bd085b6740e0bd122586b9e5d111",
+      "before": 0,
+      "after": 8,
+      "after_revision": 1,
+      "note": "",
+      "undone": false
+    },
+    {
+      "id": "9dd87785ea71433bac1c36788fa85409",
+      "at": "2026-11-25T17:38:59+08:00",
+      "kind": "新增用品",
+      "product_id": "e28e274a7d6848acaf3ae468b6ff9998",
+      "product_name": "擦拭巾",
+      "unit": "包",
+      "batch_id": "138df663192a463aa344b799bd26fe85",
+      "before": 0,
+      "after": 3,
+      "after_revision": 1,
+      "note": "",
+      "undone": false
+    },
+    {
+      "id": "44fd0209d5514ea68d44fefedcd50b76",
+      "at": "2026-11-25T17:38:59+08:00",
+      "kind": "补充入库",
+      "product_id": "c3ed5edb5fad49b7a6cd3cdeb40164a7",
+      "product_name": "护理垫",
+      "unit": "包",
+      "batch_id": "547eacef6bb4497cb717f92baa214b73",
+      "before": 0,
+      "after": 1,
+      "after_revision": 1,
+      "note": "",
+      "undone": false
+    },
+    {
+      "id": "380d179bff914454869e5fab74a33415",
+      "at": "2026-11-25T17:38:59+08:00",
+      "kind": "载入示例",
+      "product_id": "",
+      "product_name": "",
+      "unit": "",
+      "batch_id": "",
+      "before": null,
+      "after": null,
+      "after_revision": null,
+      "note": "所有记录均为虚构。",
+      "undone": false
+    }
+  ],
+  "settings": {
+    "expiry_days": 30
+  }
+}
